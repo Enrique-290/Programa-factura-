@@ -1,0 +1,1 @@
+-- schema.sql placeholder - full schema should be restored from previous generation
